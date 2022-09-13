@@ -3,7 +3,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-<a href="https://github.com/hamdanbasri/LerpControl">
+<a href="https://github.com/hamdanbasri/LookAtAxisController">
 <img src="images/LookAtAxisControllerCover.jpg" alt="Logo" width=100%>
 </a>
 <p align="center">
@@ -34,7 +34,7 @@ Easily set the axis for your LookAt functions.
 </br>
 Ever wanted to only look at on a specific axis?
 </br>
-This [code](https://github.com/hamdanbasri/LerpControl/blob/main/LerpControl.cs) is here just to do that.
+This [code](https://github.com/hamdanbasri/LookAtAxisController/blob/main/LookAtAxisController.cs) is here just to do that.
 
 <!-- FUNCTIONS -->
 ## Functions
@@ -42,9 +42,9 @@ This [code](https://github.com/hamdanbasri/LerpControl/blob/main/LerpControl.cs)
 
 <!-- GETTING STARTED -->
 ## Getting Started
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhamdanbasri%2FLerpControl&label=Visitors&countColor=%23263759&style=flat)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhamdanbasri%2FLookAtAxisController&label=Visitors&countColor=%23263759&style=flat)
 * Open Unity and add a <strong>Cube</strong> to the scene and rename it to <strong>Head</strong>.
-* Attach the [LookAtAxisController.cs](https://github.com/hamdanbasri/LerpControl/blob/main/LerpControl.cs) script to the <strong>Head</strong> as a component.
+* Attach the [LookAtAxisController.cs](https://github.com/hamdanbasri/LookAtAxisController/blob/main/LookAtAxisController.cs) script to the <strong>Head</strong> as a component.
 * Add another <strong>Cube</strong> to the scene and name it to <strong>LookAtTarget</strong>.
 * Click on Head in the hierarchy.
 * Drag the <strong>LookAtTarget</strong> in the Hierarchy on to the Target section in the inspector.
